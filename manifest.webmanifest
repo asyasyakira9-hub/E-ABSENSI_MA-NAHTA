@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "MA Nahdhiyah Talun - Sistem Absensi & Notifikasi WA",
+  "short_name": "Absensi MNT",
+  "description": "Sistem Absensi Digital Siswa, Guru, dan Tendik MA Nahdhiyah Talun dengan Data Master, Kartu Barcode, dan Notifikasi WhatsApp.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "lang": "id-ID",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
